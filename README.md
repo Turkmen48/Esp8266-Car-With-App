@@ -7,6 +7,6 @@ Esp'nin wifi şifresini "password" olarak giriniz.
 Önce wifiden esp'ye bağlanıp sonra uygulamayı açınız. Bağlantılar kodların içinde
 belirtilmiştir. 
 
-#Video
+# Video
 Aracın nasıl çalıştığını gösteren video
 https://youtu.be/HbVpKvluDic
