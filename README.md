@@ -9,4 +9,4 @@ belirtilmiştir.
 
 # Video
 Aracın nasıl çalıştığını gösteren video
-[Video Linki](https://youtu.be/HbVpKvluDic)
+[Video Linki](https://youtu.be/dZi-q8UCtos)
